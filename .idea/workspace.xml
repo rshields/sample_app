@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="114" selection-start="631" selection-end="631" vertical-scroll-proportion="0.7450331" vertical-offset="0" max-vertical-offset="604">
+            <state line="30" column="114" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="8" selection-start="147" selection-end="147" vertical-scroll-proportion="0.09933775" vertical-offset="0" max-vertical-offset="604">
               <folding />
             </state>
           </provider>
@@ -48,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -369,7 +379,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="114" selection-start="631" selection-end="631" vertical-scroll-proportion="0.7450331" vertical-offset="0" max-vertical-offset="604">
+        <state line="30" column="114" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="8" selection-start="147" selection-end="147" vertical-scroll-proportion="0.09933775" vertical-offset="0" max-vertical-offset="604">
           <folding />
         </state>
       </provider>
